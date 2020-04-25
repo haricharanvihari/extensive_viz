@@ -1,0 +1,60 @@
+# Aiming at increasing the accuracy of MNIST 
+>with 99.4% (to be consistently shown in last few epochs, and not a one-time achievement)
+>Less than or equal to 15 Epochs
+>Less than 10000 Parameters
+
+
+Code1:
+Target:
+1.	Add Batch-norm to increase model efficiency & Dropout=0.25.
+Results:
+1.	Parameters: 6.1k
+2.	Best Train Accuracy: 96.88%
+3.	Best Test Accuracy: 98.76%
+Analysis:
+1.	The model is under-fitting. We should also improve train accuracy. 
+2.	The test accuracy is up a little bit.
+
+Code 2:
+Target:
+1.	Updated Dropout value to 0.1
+Results:
+1.	Parameters: 6.1k
+2.	Best Train Accuracy: 98.47%
+3.	Best Test Accuracy: 99.18%
+Analysis:
+1.	The model is under-fitting. We should also improve train accuracy. 
+2.	The test accuracy is up and still can be improved.
+
+Code 3:
+Target:
+1.	Worked on dropouts as the Network is underfitting, and disabled them to see the accuracy of the model, Enabled Scheduler step with size 6 .
+Results:
+1.	Parameters: 6.1k
+2.	Best Train Accuracy: 99.06%(epoch 18)
+3.	Best Test Accuracy: 99.16%
+Analysis:
+1.	Train accuracy improved.
+2.	The test accuracy is up a little bit.
+
+Code 4:
+Target:
+1.	Adjust the Scheduler step with size 8 .
+Results:
+1.	Parameters: 6.1k
+2.	Best Train Accuracy: 99.09%
+3.	Best Test Accuracy: 99.29%(epoch10)
+Analysis:
+1.	Train accuracy improved.
+2.	The test accuracy improved w.r.t to the latest run.
+
+Code 5:
+Target:
+1.	Adjusted the scheduler step with size 9.
+Results:
+1.	Parameters: 6.1k
+2.	Best Train Accuracy: 99.18%
+3.	Best Test Accuracy: 99.29%(epoch 14)
+Analysis:
+1.	Train accuracy improved as well as test accuracy improved.
+2.	Increasing the scheduler step did not yield in achieving accuracy in less number of epoch’s. Able to understand that the learning rate is only slowed down at farther step when step size is increased.
