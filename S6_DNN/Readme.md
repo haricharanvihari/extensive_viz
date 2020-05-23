@@ -17,6 +17,7 @@
 #### Results
 
 #### Loss change graph for all the above 8 jobs
+![LossImages](/Accuracy Curves.png)
 
 #### Validation Accuracy change graph for all 8 jobs
 
