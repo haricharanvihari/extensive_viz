@@ -8,11 +8,11 @@
 7.	Achieve 80% accuracy, as many epochs as you want. Total Params to be less than 1M
 
 ## Results:
-Changed the code such that it uses GPU
-Updated the architecture to C1C2C3C4
-Total RF > than 44
-Used Depthwise Separable Convolution , Dilated Convolution
-Used GAP.
-Highest Accuracy: 82.71% in 19th Epoch
-Accuracy in 20th Epoch : 82.58%
-Total Params: 76,384
+1.  Changed the code such that it uses GPU
+2.  Updated the architecture to C1C2C3C4
+3.  Total RF > than 44
+4.  Used Depthwise Separable Convolution , Dilated Convolution
+5.  Used GAP.
+6.  Highest Accuracy: 82.71% in 19th Epoch
+7.  Accuracy in 20th Epoch : 82.58%
+8.  Total Params: 76,384
