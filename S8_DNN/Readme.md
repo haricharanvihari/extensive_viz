@@ -1,4 +1,5 @@
-## Source : Go through this repository: https://github.com/kuangliu/pytorch-cifar (Links to an external site.)
+Source for Resnet18 PY : Go through this repository: https://github.com/kuangliu/pytorch-cifar (Links to an external site.)
+
 ## Objective
 1.  To Extract the ResNet18 model from above repository and add it to repo. 
 2.  To use the data loader, model loading, train, and test code to train ResNet18 on Cifar10
