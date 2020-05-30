@@ -19,3 +19,4 @@
 #### After applying HorizontalFlip , Rotate, CoarseDropout, Normalize, ToTensor the accuracy is 88.40% at 24th epoch
 
 ### Loss Change Curve
+<img width=“964” alt=“img1” src=“https://github.com/haricharanvihari/extensive_viz/blob/master/S9_DNN/images/val_loss%20graph_change.png”>
