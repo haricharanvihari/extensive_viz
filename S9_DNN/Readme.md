@@ -8,7 +8,7 @@
 ### Results:
 #### Arranging file structure
 
------|models
+-----|models \n
 	|---  __init.py__
 	|--- *Resnet* Files , resnetbase
 ------|dataloader.py
