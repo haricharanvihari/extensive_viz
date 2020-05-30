@@ -19,4 +19,21 @@
 #### After applying HorizontalFlip , Rotate, CoarseDropout, Normalize, ToTensor the accuracy is 88.40% at 24th epoch
 
 ### Loss Change Curve
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S9_DNN/images/val_loss%20graph_change.png" width="350" title="hover text">
+<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S9_DNN/images/val_loss%20graph_change.png" width="550" title="Val Loss">
+
+### Validation Accuracy Curve
+<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S9_DNN/images/val_validation%20accuracy_change.png" width="550" title="Val Accuracy">
+
+### Misclassified Images
+<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S9_DNN/images/misclassified.png" width="550" title="Misclassified Img">
+
+### Gradcam Images
+<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S9_DNN/images/gradcam_incorrect_0_plane.png" width="550" title="Gradcam">
+
+<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S9_DNN/images/gradcam_incorrect_1_cat.png" width="550" title="Gradcam">
+
+<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S9_DNN/images/gradcam_incorrect_2_truck.png" width="550" title="Gradcam">
+
+<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S9_DNN/images/gradcam_incorrect_3_ship.png" width="550" title="Gradcam">
+
+<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S9_DNN/images/gradcam_incorrect_4_cat.png" width="550" title="Gradcam">
