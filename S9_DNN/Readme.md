@@ -17,3 +17,5 @@
 ------|transformation.py <br>
 
 #### After applying HorizontalFlip , Rotate, CoarseDropout, Normalize, ToTensor the accuracy is 88.40% at 24th epoch
+
+### Loss Change Curve
