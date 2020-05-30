@@ -136,8 +136,7 @@ class DataModel(object):
   def plot_accuracy_graph(self):
     self.plot_matrix(self.test_acc, "Validation Accuracy")
   
-  def plot_GRADcam(self):
-    target_layers = ["layer1","layer2","layer3","layer4"]
+  def plot_GRADcam(self, target_layers):
     viz_cam = VisualizeCam(self.model, self.img_data.classes, target_layers)
 
     num_img = 5
