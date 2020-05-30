@@ -9,11 +9,11 @@
 #### Arranging file structure
 
 -----|models </br>
-	|---  __init.py__
-	|--- *Resnet* Files , resnetbase
-------|dataloader.py
-------|datamodel.py
-------|gradcam.py
-------|transformation.py
+	|---  __init.py__ <br>
+	|--- *Resnet* Files , resnetbase <br>
+------|dataloader.py <br>
+------|datamodel.py </br>
+------|gradcam.py <br>
+------|transformation.py <br>
 
 #### After applying HorizontalFlip , Rotate, CoarseDropout, Normalize, ToTensor the accuracy is 88.40% at 24th epoch
