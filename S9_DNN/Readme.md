@@ -38,3 +38,7 @@
 
 <img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S9_DNN/images/gradcam_incorrect_4_cat.png" width="550" title="Gradcam">
  
+### Quiz S9
+#### Training Accuracy 79.44%
+#### Test Accuracy 81.14%%
+#### Number of Epochs - 10
