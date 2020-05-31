@@ -42,3 +42,5 @@
 #### Training Accuracy 79.44%
 #### Test Accuracy 81.14%%
 #### Number of Epochs - 10
+#### Link:
+https://github.com/haricharanvihari/extensive_viz/blob/master/S9_DNN/S9_Quiz.ipynb
