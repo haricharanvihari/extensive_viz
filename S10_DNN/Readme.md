@@ -1,7 +1,7 @@
 ### S10 Implementing LR
 #### 1.	Add CutOut from transformations (albumentations)
-#### 2.	Implement LR Finder (for SGD, not for ADAM) <br> Source: https://github.com/davidtvs/pytorch-lr-finder
-#### 3.	Implement ReduceLROnPlatea <br> Source: https://pytorch.org/docs/stable/optim.html#torch.optim.lr_scheduler.ReduceLROnPlateau
+#### 2.	Implement LR Finder (for SGD, not for ADAM) Source: https://github.com/davidtvs/pytorch-lr-finder
+#### 3.	Implement ReduceLROnPlatea Source: https://pytorch.org/docs/stable/optim.html#torch.optim.lr_scheduler.ReduceLROnPlateau
 #### 4.	Find best LR to train your model
 #### 5.	Use SDG with Momentum
 #### 6.	Train for 50 Epochs.
