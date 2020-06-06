@@ -30,7 +30,7 @@
 #### 5.	Best Accuracy Train - 97.58% Test - 88.83%
 
 ### Train & Test Acc Curves Twinx
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/Train%20&%20Test%20Acc%20Curves%20Twinx.png" width=550" title="Twinx">
+<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/Train%20&%20Test%20Acc%20Curves%20Twinx.png" width="550" title="Twinx">
                                                                                                                                          
 ### Gradcam Images
 <img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/gradcam_incorrect_0_car.png" width="550" title="car">
