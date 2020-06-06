@@ -26,8 +26,9 @@
 #### 1.	Added Dropout in Albumentation
 #### 2.	Implemented LR Finder for SGD taken from Source: https://github.com/davidtvs/pytorch-lr-finder
 #### 3.	Implemented ReduceLROnPlatea. Source: https://pytorch.org/docs/stable/optim.html#torch.optim.lr_scheduler.ReduceLROnPlateau
-#### 4.	Best LR - 0.001
-#### 5.	Best Accuracy Train - 97.58% Test - 88.83%
+#### 4.	Best Learning Rate - 0.001
+#### 5.	Accuracies in Last few epochs ranging Train 97.4%, Test: 88.5%
+#### 6. Best Accuracy Train - 97.58%(Epoch 50) Test - 88.83%(Epoch 50)
 
 ### Train & Test Acc Curves Twinx
 <img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S10_DNN/Images/Train%20&%20Test%20Acc%20Curves%20Twinx.png" width="550" title="Twinx">
