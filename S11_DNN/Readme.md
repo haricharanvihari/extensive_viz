@@ -1,6 +1,6 @@
 
 ### Super-Convergence
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S11_DNN/images/S11.png" width="550" title="Que">
+<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S11_DNN/images/S11.png" width="550" title="Que"> 
 
 ### Results:
 #### Arranging file structure
