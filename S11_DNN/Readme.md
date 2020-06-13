@@ -29,7 +29,7 @@
 ### 3.	Loss Acc Change Curve
 <img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S11_DNN/images/loss_acc_change.png" width="550" title="Train_test">
 
-### Gradcam Images
+### First 5 Gradcam Images
 <img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S11_DNN/images/gradcam_incorrect_0_dog.png" width="550" title="dog">
 
 <img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S11_DNN/images/gradcam_incorrect_1_plane.png" width="550" title="plane">
