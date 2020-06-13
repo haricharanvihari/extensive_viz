@@ -1,28 +1,6 @@
 
-### S11 Super-Convergence
-#### 1.	Write a code that draws zigzag curve
-#### 2.	Write a code which uses this new ResNet Architecture for Cifar10: a. PrepLayer - Conv 3x3 s1, p1) >> BN >> RELU [64k] b. Layer1 -
-#####  o	X = Conv 3x3 (s1, p1) >> MaxPool2D >> BN >> RELU [128k]
-#####  o	R1 = ResBlock( (Conv-BN-ReLU-Conv-BN-ReLU))(X) [128k]
-#####  o	Add(X, R1) c. Layer 2 -
-#####  o	Conv 3x3 [256k]
-#####  o	MaxPooling2D
-#####  o	BN
-#####  o	ReLU d. Layer 3 -
-#####  o	X = Conv 3x3 (s1, p1) >> MaxPool2D >> BN >> RELU [512k]
-#####  o	R2 = ResBlock( (Conv-BN-ReLU-Conv-BN-ReLU))(X) [512k]
-#####  o	Add(X, R2) e. MaxPooling with Kernel Size 4 f. FC Layer g. SoftMax
-#### 3.	Uses One Cycle Policy such that:-
-#####  o	Total Epochs = 24
-#####  o	Max at Epoch = 5
-#####  o	LRMIN = FIND
-#####  o	LRMAX = FIND
-#####  o	NO Annihilation
-#### 4.	Uses this transform - RandomCrop 32, 32 (after padding of 4) >> FlipLR >> Followed by CutOut(8, 8)
-#### 5.	Batch size = 512
-#### 6.	Target Accuracy: 90%.
-
-
+### Super-Convergence
+<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S11_DNN/images/S11.png" width="550" title="Cyclic">
 
 ### Results:
 #### Arranging file structure
