@@ -20,8 +20,8 @@
 <img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S11_DNN/images/CYCLIC_TRIANGLE.png" width="550" title="Cyclic">
 
 ####  o	LR Max - 0.07
-####  o	Best Accuracy Train - 94.26% Test - 90.46% (Epoch 5)
-####  o	Target Accuracy : 88.51%
+####  o	Accuracy Train - 99.69% Test - 93.24%
+####  o	Accuracy at Epoch 5 : 92.87%%
 
 ### 2.	Train Test Acc Curve
 <img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S11_DNN/images/train_test_acc_change.png" width="550" title="Train_test">
@@ -30,13 +30,13 @@
 <img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S11_DNN/images/loss_acc_change.png" width="550" title="Train_test">
 
 ### First 5 Gradcam Images
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S11_DNN/images/gradcam_incorrect_0_dog.png" width="550" title="dog">
+<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S11_DNN/images/gradcam_incorrect_0_cat.png" width="550" title="cat">
 
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S11_DNN/images/gradcam_incorrect_1_plane.png" width="550" title="plane">
+<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S11_DNN/images/gradcam_incorrect_1_ship.png" width="550" title="ship">
 
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S11_DNN/images/gradcam_incorrect_2_cat.png" width="550" title="cat">
+<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S11_DNN/images/gradcam_incorrect_2_dog.png" width="550" title="dog">
 
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S11_DNN/images/gradcam_incorrect_3_ship.png" width="550" title="ship">
+<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S11_DNN/images/gradcam_incorrect_3_cat.png" width="550" title="cat">
 
 <img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S11_DNN/images/gradcam_incorrect_4_dog.png" width="550" title="dog">
 
