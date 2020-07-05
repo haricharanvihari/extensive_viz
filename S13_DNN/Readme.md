@@ -12,3 +12,5 @@
 
 ### Annotation
 ####  Annotated all 500 images using Yolo-Annotation-Tool
+
+https://github.com/haricharanvihari/extensive_viz/tree/master/S13_DNN/Open%20CV%20Annotation
