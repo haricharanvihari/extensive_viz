@@ -10,13 +10,25 @@
 
 1.	Download Background images from internet, from google images
 2.	Download transparent Foreground images from internet, from google images
-3.	Resize background & foreground images - Code
-4.	Generate Mask images for all the foreground images - Code
-5.	Generate Overlay images by putting foreground images over background images - Code & Colab
-6.	Generate mask images for overlay images - Code
-7.	Generate Depth maps for overlay images - Colab
-8.	Calculate Images dimensions - Colab
-Dataset Link
+3.	Resize background & foreground images <br/>
+https://github.com/haricharanvihari/extensive_viz/blob/master/S15_DNN/utils/image_resize.py
+
+4.	Generate Mask images for all the foreground images - Code <br/>
+https://github.com/haricharanvihari/extensive_viz/blob/master/S15_DNN/utils/mask.py
+
+5.	Generate Overlay images by putting foreground images over background images - Code & Colab <br/>
+https://github.com/haricharanvihari/extensive_viz/blob/master/S15_DNN/utils/overlay_mask_creation.ipynb
+
+6.	Generate mask images for overlay images - Code <br/>
+https://github.com/haricharanvihari/extensive_viz/blob/master/S15_DNN/utils/overlay.py
+
+7.	Generate Depth maps for overlay images - Colab <br/>
+https://github.com/haricharanvihari/extensive_viz/blob/master/S15_DNN/Dense_depth.ipynb
+
+8.	Calculate Images dimensions - Colab <br/>
+https://github.com/haricharanvihari/extensive_viz/blob/master/S15_DNN/Dataset.ipynb
+
+Dataset Link <br/>
 Link to dataset - https://drive.google.com/drive/folders/16PIIckM14zXzH1KQxH3vGfiv7Ia-_4wA?usp=sharing
 Dataset Samples
 
