@@ -1,7 +1,7 @@
 
 ### Depth Estimation and Segmentation 
 
-<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S11_DNN/images/S11.png" width="750" title="Que"> 
+<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S15_DNN/images/asgmnt.PNG" width="750" title="Que"> 
 
 ####  Create a custom dataset for monocular depth estimation and segmentation simultaneously. Since we do not have access to a depth camera, we use a pre-trained depth model to ####  generate the depth maps which will be used as the ground truth for our model.
 
