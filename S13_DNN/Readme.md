@@ -14,3 +14,6 @@
 ####  Annotated all 500 images using Yolo-Annotation-Tool
 
 https://github.com/haricharanvihari/extensive_viz/tree/master/S13_DNN/Open%20CV%20Annotation
+
+### Super-Convergence
+<img src="https://github.com/haricharanvihari/extensive_viz/blob/master/S13_DNN/images/jack.jpg" width="750" title="Jack"> 
